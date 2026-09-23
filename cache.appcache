@@ -1,5 +1,5 @@
 CACHE MANIFEST
-# rev 20260923-aio-1352-v2
+# rev 20260923-aio-1352-v3
 
 index.html 
 jb.html 
@@ -11,10 +11,9 @@ int64.js
 ps4_offsets.js 
 rpc_worker.js 
 payload2.bin 
-goldhen.bin 
 patches/1302.bin 
 patches/1350.bin 
-patches/1352.bin #
+patches/1352.bin 
 core.js?v=10 
 jb.js?v=10 
 
